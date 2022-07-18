@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-05-27 03:21:04 by Eclipse SUMO netedit Version 1.13.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="busStop_gneE0_1_0" lane="gneE0_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE10_1_0" lane="gneE10_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE11_1_0" lane="gneE11_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE12_1_0" lane="gneE12_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE13_1_0" lane="gneE13_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE14_1_0" lane="gneE14_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE15_1_0" lane="gneE15_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE16_1_0" lane="gneE16_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE17_1_0" lane="gneE17_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE18_1_0" lane="gneE18_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE19_1_0" lane="gneE19_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE1_1_0" lane="gneE1_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE20_1_0" lane="gneE20_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE21_1_0" lane="gneE21_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE22_1_0" lane="gneE22_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE23_1_0" lane="gneE23_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE2_1_0" lane="gneE2_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE3_1_0" lane="gneE3_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE4_1_0" lane="gneE4_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE5_1_0" lane="gneE5_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE6_1_0" lane="gneE6_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE7_1_0" lane="gneE7_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE8_1_0" lane="gneE8_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+    <busStop id="busStop_gneE9_1_0" lane="gneE9_1" startPos="245.00" endPos="255.00" personCapacity="50"/>
+</additional>
